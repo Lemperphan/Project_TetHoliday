@@ -68,7 +68,7 @@ body{
     outline: none;
     font-weight: 400;
     background-color: transparent;
-    border: 2px solid #eccc68;
+    border: 1px solid #eccc68;
     /* font-size: 16px; */
 }
 .button{
